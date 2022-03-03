@@ -1,0 +1,20 @@
+{
+  "name": "typescript101-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErfanEbrahimnia/typescript101-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErfanEbrahimnia/typescript101-assignment/issues"
+  },
+  "homepage": "https://github.com/ErfanEbrahimnia/typescript101-assignment#readme"
+}
